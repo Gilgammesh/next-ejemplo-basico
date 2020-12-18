@@ -7,7 +7,7 @@ const About = () => {
       <Head>
         <title>Proyecto de NextJs - Nosotros</title>
       </Head>
-      <h1>Nosotros</h1>
+      <h1 style={{ color: "#563D7C" }}>Nosotros</h1>
       <p>
         Duis Lorem ad ea minim do consectetur reprehenderit non. Ut aliqua
         consectetur eiusmod do mollit sunt cillum voluptate ex ea eiusmod culpa.

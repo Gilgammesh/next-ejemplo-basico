@@ -49,6 +49,11 @@ const Navigation = () => {
               <a className="nav-link">Servicios</a>
             </Link>
           </li>
+          <li className={`nav-item ${activeLink("/users")}`}>
+            <Link href="/users">
+              <a className="nav-link">Usuarios</a>
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>

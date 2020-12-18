@@ -7,7 +7,7 @@ const Services = () => {
       <Head>
         <title>Proyecto de NextJs - Servicios</title>
       </Head>
-      <h1>Página Servicios</h1>
+      <h1 style={{ color: "#563D7C" }}>Página Servicios</h1>
       <p>
         Duis Lorem ad ea minim do consectetur reprehenderit non. Ut aliqua
         consectetur eiusmod do mollit sunt cillum voluptate ex ea eiusmod culpa.
